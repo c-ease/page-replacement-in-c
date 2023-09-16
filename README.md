@@ -1,4 +1,4 @@
-Page replacement algorithms implemented in c language: FIFO, LRU, Optimal
+Page replacement algorithms implemented in c language: FIFO, LRU, Optimal, MFU, LFU, Second Chance
 for reference- https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/
 
 These c programs simulates the page replacement algorithms and must be given input while keeping in mind the following format:
